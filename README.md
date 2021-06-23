@@ -20,4 +20,6 @@ Purpose : Predict the price of houses
 
 ### Notebook
 
-In construction
+* Data visualisation
+* Machine learning model : Random Forest Regressor
+* Evaluation of the mean absolute error
