@@ -23,3 +23,7 @@ Purpose : Predict the price of houses
 * Data visualisation
 * Machine learning model : Random Forest Regressor
 * Evaluation of the mean absolute error
+* Optimisation of model parameters with Grid Search CV
+
+### Competition submission
+Score = 18241.23443
