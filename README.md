@@ -30,4 +30,4 @@ Purpose : Predict the price of houses
 * Optimisation of model parameters with Grid Search CV
 
 ### Competition submission
-Score = 18241.23443
+Score = 17956.07744
