@@ -22,6 +22,7 @@ Purpose : Predict the price of houses
 
 * Data visualisation
 * Pre-processing with pipeline
+
 ![diagram](https://user-images.githubusercontent.com/82372483/123261032-8c8c9980-d4f6-11eb-9752-672b39eb6ec2.png)
 
 * Machine learning model : Random Forest Regressor
