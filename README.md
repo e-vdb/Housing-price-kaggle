@@ -1,5 +1,8 @@
 # Kaggle : Housing Prices Competition for Kaggle Learn Users
 
+![picture](https://user-images.githubusercontent.com/82372483/123420925-7b0dc500-d5bc-11eb-80de-bd7e22dab944.png)
+
+
 ## Summary
 
 Housing Prices Competition for Kaggle Learn Users
